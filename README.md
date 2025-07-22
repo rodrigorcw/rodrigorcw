@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rodrigorcw/rodrigorcw/blob/main/banner.png" alt="Rodrigo Wenzel Banner" width="300" />
+  <img src="https://github.com/rodrigorcw/rodrigorcw/blob/main/banner.png" alt="Rodrigo Wenzel Banner" width="800" />
 </p>
 <h1 align="center">Hi, I'm Rodrigo 👋</h1>
 
