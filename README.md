@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rodrigo 👋</h1>
 
 <p align="center">
-  <b>Java Developer | Spring Boot | REST APIs | Open to Work in Ireland 🇮🇪, Portugal and Brazil</b>
+  <b>Java Developer | Spring Boot | REST APIs | Open to Work in Ireland 🇮🇪, Portugal pt and Brazil br</b>
 </p>
 
 <p align="center">
