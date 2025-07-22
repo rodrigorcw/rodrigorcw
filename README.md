@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigorcw/" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-wenzel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:rodrigorcw@gmail.com">
