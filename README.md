@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/rodrigorcw/rodrigorcw/blob/main/banner.png" alt="Rodrigo Wenzel Banner" />
+</p>
 <h1 align="center">Hi, I'm Rodrigo 👋</h1>
 
 <p align="center">
